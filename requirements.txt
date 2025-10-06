@@ -1,5 +1,5 @@
 streamlit
 requests
-sqlite-utils
 pytest
 flake8
+sqlite-utils
