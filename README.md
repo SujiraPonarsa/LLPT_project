@@ -1,8 +1,7 @@
 # 📚 Language Learning Progress Tracker (LLPT)
 
-A Streamlit-based application that helps users learn and review new vocabulary using spaced repetition techniques.
-It integrates a dictionary API for instant meaning lookup and stores learning progress in a local SQLite database.
-
+เป็นแอปพลิเคชัน Streamlit ที่ช่วยให้ผู้ใช้เรียนรู้และทบทวนคำศัพท์ใหม่ ๆ ด้วยเทคนิคการทบทวนแบบเว้นช่วง (Spaced Repetition)
+โดยแอปนี้เชื่อมต่อกับ Dictionary API เพื่อดึงความหมายของคำแบบทันที และบันทึกความคืบหน้าในการเรียนรู้ลงในฐานข้อมูล SQLite ภายในเครื่อง
 ---
 
 ## 🚀 Features
@@ -125,6 +124,3 @@ pytest -q
 
 ---
 
-**Developed with ❤️ by Team LLPT**
-
-> A learning companion to make language study consistent and fun.
