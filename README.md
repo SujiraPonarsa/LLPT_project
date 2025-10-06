@@ -113,10 +113,6 @@ pytest -q
 
 ---
 
-## 🧯 License
-
-MIT License © 2025 SujiraPonarsa
-
 ---
 
 ## ✨ Future Improvements
