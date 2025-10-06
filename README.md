@@ -123,6 +123,6 @@ pytest -q
 * 📱 PWA mobile-friendly version
 
 ---
-# CANVA
-=HYPERLINK("https://www.canva.com/design/DAG1CW_Eg4w/ku1fSkltBIPhx92Z0AHqWw/edit?utm_content=DAG1CW_Eg4w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton", "Language Learning Progress Tracker")
+# CANVA PRESENTATION
+[Language Learning Progress Tracker](https://www.canva.com/design/DAG1CW_Eg4w/ku1fSkltBIPhx92Z0AHqWw/edit?utm_content=DAG1CW_Eg4w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
